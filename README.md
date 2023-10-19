@@ -7,11 +7,11 @@
 <hr>
 <h2>Accessibility - Semantic HTML Elements</h2>
 <ul>
-  <li>'<nav>' for navigation menus</li>
-  <li><header> for the page header</li>
-  <li><main> for the main content area</li>
-  <li><footer> for the page footer</li>
-  <li><article> for self-contained content like blog posts</li>
+  <li> nav for navigation menus</li>
+  <li> header for the page header</li>
+  <li> main for the main content area</li>
+  <li> footer for the page footer</li>
+  <li> article for self-contained content like blog posts</li>
 </ul>
 
 <h3>Text Alternatives</h3>
